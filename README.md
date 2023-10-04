@@ -4,7 +4,8 @@
   
 - ✉️ Email: iMrDark@protonmail.com
 - 🔐 PGP PUBLIC KEY
-  
+
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGQZ2/MBDADm7rx4/EetT2LQtsf78WJt+9/f05lbDIpEHp+zy3nFtSnuBCUF
@@ -46,3 +47,4 @@ NisyUrP/eUuxMlaYmLdBSqI6OBQ+wy0tddB036aAekucmLB7GE2bHnjMv4/uJrG/
 AxyNgaO2HIE6pFGWq279YQ==
 =RcbQ
 -----END PGP PUBLIC KEY BLOCK-----
+```
