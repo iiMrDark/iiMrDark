@@ -1,16 +1,6 @@
 - 👋 I'm ./Mr.Dark
 - ⚡ FullStack Web Dev & Desktop Dev & BlackHat Hacker & CTF Player
-
----
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=iimrdark&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimrdark&layout=compact" />
-</div>
-<br />
-
-## 
-
+- 
 - ✉️ Email: iMrDark@protonmail.com
 - 🔐 PGP PUBLIC KEY
 
@@ -57,3 +47,11 @@ AxyNgaO2HIE6pFGWq279YQ==
 =RcbQ
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=iimrdark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iimrdark&layout=compact" />
+</div>
+<br />
