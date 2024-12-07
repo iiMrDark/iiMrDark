@@ -1,11 +1,6 @@
 - 👋 I'm ./Mr.Dark
 - ⚡ FullStack Web Dev & Desktop Dev & BlackHat Hacker & CTF Player
 
-<a href="https://github.com/iimrdark/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=iimrdark&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
-
 ---
 
 <div>
@@ -14,6 +9,7 @@
   <br />
 </div>
 
+---
 
 - ✉️ Email: iMrDark@protonmail.com
 - 🔐 PGP PUBLIC KEY
