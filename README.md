@@ -9,7 +9,7 @@
 </div>
 <br />
 
-## INFO 
+## 
 
 - ✉️ Email: iMrDark@protonmail.com
 - 🔐 PGP PUBLIC KEY
