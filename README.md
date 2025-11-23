@@ -62,15 +62,6 @@
 </td>
 </tr>
 <tr>
-<td>Competitive Coding</td>
-<td>
-<a href="https://leetcode.com/abdelrhman_74/" rel="nofollow">
-
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-</a> 
-</td>
-</tr>
-<tr>
 <td>IDE &amp; Environment</td>
 <td>
 
